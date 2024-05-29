@@ -101,33 +101,3 @@ Install the dependencies using:
 pip install pandas numpy scikit-learn scipy matplotlib
 ```
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-```
-
-### How to Use
-
-1. **Create a `requirements.txt` file:**
-   ```bash
-   pandas
-   numpy
-   scikit-learn
-   scipy
-   matplotlib
-   ```
-
-2. **Save the Jupyter Notebook and dataset in your repository:**
-   - `Mall_Shoppers_Analysis.ipynb`
-   - `Mall_Customers.csv`
-
-3. **Initialize a Git repository and push to GitHub:**
-   ```bash
-   git init
-   git add .
-   git commit -m "Initial commit"
-   git remote add origin https://github.com/your-username/mall-shoppers-customer-segmentation.git
-   git push -u origin master
-   ```
-
-Replace `your-username` with your actual GitHub username. This README provides a comprehensive overview of your project and instructions on how to run it, making it easy for others to understand and use your analysis.
